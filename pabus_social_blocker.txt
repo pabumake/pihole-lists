@@ -1,26 +1,30 @@
 # Title: pabus-social-blocker.txt
 # Created with ChatGPT
 # Initial Release: 06-Jan-2024
-# Last Update: 2024-01-06 20:01
+# Last Update: 2024-01-06 20:24
 # Notice: This list is used to remove distractions in my Network for my own good 😅
 ###############################################################################################
+
 ## TikTok
-*.tiktok.com
-*.byteoversea.com
-*.muscdn.com
-*.musical.ly
-*.tiktokcdn.com
+0.0.0.0 tiktok.com
+0.0.0.0 byteoversea.com
+0.0.0.0 muscdn.com
+0.0.0.0 musical.ly
+0.0.0.0 tiktokcdn.com
+
 ## Instagram
-*.instagram.com
-*.cdninstagram.com
-*.fbcdn.net
-*.cdn.fb.com
-*.ig.me
+0.0.0.0 instagram.com
+0.0.0.0 cdninstagram.com
+0.0.0.0 fbcdn.net
+0.0.0.0 cdn.fb.com
+0.0.0.0 ig.me
+
 ## Snapchat
-*.snapchat.com
-*.snapcdn.com
-*.sc-cdn.net
-## YouTube 
-*.googlevideo.com
-*.youtube.com
-*.ytimg.com
+0.0.0.0 snapchat.com
+0.0.0.0 snapcdn.com
+0.0.0.0 sc-cdn.net
+
+## YouTube
+0.0.0.0 googlevideo.com
+0.0.0.0 youtube.com
+0.0.0.0 ytimg.com
