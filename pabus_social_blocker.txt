@@ -10,6 +10,8 @@
 0.0.0.0 muscdn.com
 0.0.0.0 musical.ly
 0.0.0.0 tiktokcdn.com
+0.0.0.0 www.titkto.com
+0.0.0.0 vm.tiktok.com
 
 ## Instagram and its variants
 0.0.0.0 instagramweb.com
